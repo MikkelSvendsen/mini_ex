@@ -1,0 +1,2 @@
+# miniex
+Mini exercises

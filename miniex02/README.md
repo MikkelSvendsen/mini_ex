@@ -10,7 +10,7 @@ The coding proces for this sketch was relatively light and the program as well i
 
 I feel confident that my next exercise is gonna have some (more) complex functions to it!
 
-My idea about what constitutes a program has adapted a bit through coding in practise, but not really changed. I believe that this exercise has taught me better that coding really is complex, but has also provided me personally more reason to further explore this world of coding language. Its frustrating yet itriguing and exiting. I tryout examples and tutorials and things happen.
+My idea about what constitutes a program has adapted a bit through coding in practise, but not really changed. I believe that this exercise has taught me better that coding really is complex, but has also provided me personally more reason to further explore this world of coding language. Its frustrating yet itriguing and exciting. I tryout examples and tutorials and things happen.
 
 What is an error? Errors can be several things. To me in this particular exercise I was trying to express an error through faulty 'language' in terms of not 'fitting in' with the system that needs to hear sound. My idea here is that the loud-speakers send out different sound 'types/languages', while in order to decode these sounds and understand them you must have the right receiver. Obviously the color and shapes play the roles of determining if theres a fit. The error here can be the shape or color of sound provided by the loudspeaker doesnt fit either the color of shape of the ear (receiver). This is in part an error, because the system doesnt match.
 

@@ -1,6 +1,6 @@
 Mini exercise
 
-Cartoon expresses an error through shapes and coloring.
+(https://mikkelsvendsen.github.io/mini_ex/miniex02/?raw=true "Cartoon expresses an error through shapes and coloring.")
 
 ![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex02/codeminiex2.JPG?raw=true "Code screen")
 

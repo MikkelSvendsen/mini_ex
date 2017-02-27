@@ -4,3 +4,4 @@ Heres a link to my throbber: https://mikkelsvendsen.github.io/mini_ex/miniex03/
 
 So what did I end up with? Well basically this is just me expressing my creativty. The colors of the dots are randomly chosen in the sense that, in order to make it visible for myself and thus easier in the coding process, I had to give them separate colors. What I wanted initially was to make all the dots yellow (like the fodder in PacMan). In retrospect I also believe this would make for a much better looking throbber.
 
+![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex03/PacManThrob.JPG?raw=true "Throbber Screenshot")

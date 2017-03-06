@@ -5,3 +5,5 @@ Nothing really impressive here :b Just been playing around with some functions i
 In order to show the feedback of a loop function I made the "bouncing" ball change color for every time it would bounce back and forth.
 
 I simply tried out a lot of the functions we had for last class and I didn't go for anything creative in particular, but it gave me some idea of what is possible with coding. Even with relatively simple functions it seems possible to make some decent kind of abstract expressions through code.
+
+![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex04/miniex04.JPG?raw=true "miniex04 Screenshot")

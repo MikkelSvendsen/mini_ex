@@ -1,4 +1,4 @@
-This is my pretty simple L-System Fractal Tree!
+This is my L-System Fractal Tree!
 
 Link: https://mikkelsvendsen.github.io/mini_ex/miniex06_FractalTree_L-System/
 

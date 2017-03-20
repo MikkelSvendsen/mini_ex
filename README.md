@@ -7,4 +7,5 @@ Mini exercise 3: https://mikkelsvendsen.github.io/mini_ex/miniex03/
 
 Mini exercise 4: https://mikkelsvendsen.github.io/mini_ex/miniex04/
 
-Mini exercise 6: https://mikkelsvendsen.github.io/mini_ex/miniex6_FractalTree/
+Mini exercise 6: https://mikkelsvendsen.github.io/mini_ex/miniex6_FractalTree/ AND https://mikkelsvendsen.github.io/mini_ex/miniex06_FractalTree_L-System/
+

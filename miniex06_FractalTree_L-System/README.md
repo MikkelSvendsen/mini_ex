@@ -7,11 +7,15 @@ Link: https://mikkelsvendsen.github.io/mini_ex/miniex06_FractalTree_L-System/
 
 I made this to explore and get a better understanding of algorithms in code and how they generate structures like this tree from just simple instructions. The L-System here goes like this: FF+[+F-F-F]-[-F+F+F]. What it means is basically for the tree branches to follow a set of rules as explained below:
 
-F means to proceed fowards
-+ means to turn right
-- means to turn left
-[ saves the position
-] loads the previous position
+'F' means to proceed fowards
+
+'+' means to turn right
+
+'-' means to turn left
+
+'[' saves the position
+
+']' loads the previous position
 
 The way it works is by following these instructions. It goes forward twice, then turns right and saves position, turns right again and goes forward, turns left, goes forward, turns left again, goes forward again and then goes back to its saved position. Then it turns left, saves position, turns left again, goes forward, turns right, goes forward, turns right, goes forward and loads position - only to repeat itself at the new ends (provided by translating positions) for the next generation.
 

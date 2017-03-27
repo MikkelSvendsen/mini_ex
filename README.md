@@ -1,6 +1,6 @@
-<h1>miniex easyacces</h1>
+<h1>miniex</h1>
 
-Mini exercises (README for each exercise is in miniex folders!)
+Mini exercises (README for each exercise in miniex folders!)
 
 Mini exercise 2: https://mikkelsvendsen.github.io/mini_ex/miniex02/
 

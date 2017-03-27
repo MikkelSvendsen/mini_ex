@@ -1,4 +1,3 @@
-# miniex
 <h1>miniex easyacces</h1>
 
 Mini exercises (README for each exercise is in miniex folders!)

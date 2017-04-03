@@ -11,3 +11,5 @@ Mini exercise 4: https://mikkelsvendsen.github.io/mini_ex/miniex04/
 Mini exercise 6: https://mikkelsvendsen.github.io/mini_ex/miniex6_FractalTree/ AND https://mikkelsvendsen.github.io/mini_ex/miniex06_FractalTree_L-System/ (README in L-System folder)
 
 Mini exercise 7: https://mikkelsvendsen.github.io/mini_ex/miniex07/
+
+Mini exercise 8: https://mikkelsvendsen.github.io/mini_ex/miniex08_SnakeGame/

@@ -6,7 +6,7 @@ I've been experimentning with the Wordnik API but unfortunately, even after hour
 
 ![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex09_WordnikAPI/miniex09_Wordnik1.JPG?raw=true "miniex09 Screenshot1")
 
-<h2>Why did I choose Wordnik?</h2>
+<h3>Why did I choose Wordnik?</h3>
 
 I didn't choose it for any particular reason really, I just kinda threw myself at it. I had looked upon other API's as well but figured the Wordnik API was relatively simple enough for me to start experimenting with.
 

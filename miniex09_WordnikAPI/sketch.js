@@ -1,4 +1,4 @@
-var api = 'http://crossorigin.me/api.wordnik.com:80/v4/word.json/';
+var api = 'https://crossorigin.me/api.wordnik.com:80/v4/word.json/';
 var apiKey = '&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5';
 
 // Use the definition, related words and

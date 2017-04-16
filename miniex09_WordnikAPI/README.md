@@ -2,7 +2,7 @@
 
 Link: https://mikkelsvendsen.github.io/mini_ex/miniex09_WordnikAPI/
 
-I've been experimentning with the Wordnik API but unfortunately, even after hours of work it won't work properly on GitHub, which means in order for you to run it you need the files locally. I've provided with some screenshots to show the functionality of my program.
+I've been experimentning with the Wordnik API but unfortunately, even after hours of work, it won't work properly on GitHub, which means in order for you to run it you need the files locally. There is a .zip containing my full folder inside this miniex but I guess the sketch.js and index.html would be easier to just copy and run. I've provided with some screenshots to show the functionality of my program.
 
 ![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex09_WordnikAPI/miniex09_Wordnik1.JPG?raw=true "miniex09 Screenshot1")
 <i>- Litterature being more a sample of many dictionaries I guess. This should've been elaborated but its getting really late. Also its really 1998.</i>

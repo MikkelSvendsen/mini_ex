@@ -1,4 +1,5 @@
-var api = 'https://crossorigin.me/api.wordnik.com:80/v4/word.json/';
+var hack    = 'https://crossorigin.me/'
+var api = 'http://api.wordnik.com:80/v4/word.json/';
 var apiKey = '&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5';
 
 // Use the definition, related words and
@@ -39,19 +40,19 @@ function setup() {
 
 //Searches the word for definitions within Wordnik
 function searchWord() {
-    var url = api + input.value() + urldef + apiKey;
+    var url = hack + api + input.value() + urldef + apiKey;
     loadJSON(url, gotDataDefinition, 'jsonp');
 }
 
 //Searches the word for relations
 function searchRelated() {
-    var url = api + input2.value() + urlrel + apiKey;
+    var url = hack + api + input2.value() + urlrel + apiKey;
     loadJSON(url, gotDataRelated, 'jsonp');
 }
 
 //Searches the word frequency
 function searchFreq() {
-    var url = api + input3.value() + urlfreq + apiKey;
+    var url = hack + api + input3.value() + urlfreq + apiKey;
     loadJSON(url, gotDataFreq, 'jsonp');
 }
 

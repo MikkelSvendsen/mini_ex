@@ -28,3 +28,6 @@ Examples of two searches are illustrated in screenshot 1 and 2 above. The first 
 ![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex09_WordnikAPI/miniex09_Wordnik3.JPG?raw=true "miniex09 Screenshot3")
 
 <h4>My reflections on the aesthetics of (big) data</h4>
+
+
+![Alt text](https://mikkelsvendsen.github.io/mini_ex/miniex09_WordnikAPI/miniex09_Wordnik4.JPG?raw=true "miniex09 Screenshot4")

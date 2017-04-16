@@ -40,19 +40,19 @@ function setup() {
 //Searches the word for definitions within Wordnik
 function searchWord() {
     var url = api + input.value() + urldef + apiKey;
-    loadJSON(url, gotDataDefinition);
+    loadJSON(url, gotDataDefinition, 'jsonp');
 }
 
 //Searches the word for relations
 function searchRelated() {
     var url = api + input2.value() + urlrel + apiKey;
-    loadJSON(url, gotDataRelated);
+    loadJSON(url, gotDataRelated, 'jsonp');
 }
 
 //Searches the word frequency
 function searchFreq() {
     var url = api + input3.value() + urlfreq + apiKey;
-    loadJSON(url, gotDataFreq);
+    loadJSON(url, gotDataFreq, 'jsonp');
 }
 
 function gotDataDefinition(data) { //Handles Wordnik data of word definition

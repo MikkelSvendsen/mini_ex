@@ -13,3 +13,5 @@ Mini exercise 6: https://mikkelsvendsen.github.io/mini_ex/miniex6_FractalTree/ A
 Mini exercise 7: https://mikkelsvendsen.github.io/mini_ex/miniex07/
 
 Mini exercise 8: https://mikkelsvendsen.github.io/mini_ex/miniex08_SnakeGame/
+
+Mini exercise 9: Run locally! Miniex folder: https://github.com/MikkelSvendsen/mini_ex/tree/gh-pages/miniex09_WordnikAPI
